@@ -1,2 +1,3 @@
 # hello-world
-for test
+
+ We are what we believe we are.
